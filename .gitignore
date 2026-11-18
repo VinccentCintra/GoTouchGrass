@@ -1,0 +1,27 @@
+# Android / Gradle
+android-kotlin/.gradle/
+android-kotlin/build/
+android-kotlin/app/build/
+android-kotlin/.idea/
+android-kotlin/local.properties
+android-kotlin/captures/
+android-kotlin/.cxx/
+*.iml
+
+# Web / React
+web-react/node_modules/
+web-react/dist/
+web-react/.env.local
+
+# Firebase Functions
+functions/node_modules/
+functions/lib/
+functions/*.log
+
+# Firebase local emulators
+.firebase/
+firebase-debug.log
+*.log
+
+# Sistema
+.DS_Store
